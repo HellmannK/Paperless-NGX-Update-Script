@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Open the corresponding paperless-ngx_update_script.conf first and edit to your needs. 
-# IMPORTANT: the $INSTALLATION_PATH set in the config-file should only contain the root folder. Set the absolute path here in this script at every section whe>
+# IMPORTANT: the $INSTALLATION_PATH set in the config-file should only contain the root folder. Set the absolute path here in this script at every section
 
 CONFIG_FILE="/home/admin/paperlessUpdateScript/paperless-ngx_update_script.conf"
 
